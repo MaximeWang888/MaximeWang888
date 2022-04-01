@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at University of Paris 
 
-💻 Python and Java Developer in my spare time
+💻 Web/Mobile developer | Java Developer 
 
 😃 Enthusiast by the beauty of algorithms
 
