@@ -1,8 +1,8 @@
 # Hi there, I'm Maxime
 
-🎓 Computer Science Student at University of Paris 
+🎓 Computer Science Student at Efrei Paris
 
-💻 Web/Mobile developer | Java Developer 
+💻 Java / VueJs Developer 
 
 😃 Enthusiast by the beauty of algorithms
 
