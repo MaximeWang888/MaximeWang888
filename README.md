@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at Efrei Paris
 
-💻 Java / VueJs Developer 
+💻 Java / VueJs Software Engineer
 
 😃 Enthusiast by the beauty of algorithms
 
