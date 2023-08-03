@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at Efrei Paris
 
-💻 Java / VueJs Software Engineer
+💻 Java / VueJs Software Engineer at Dassault Systemes
 
 😃 Enthusiast by the beauty of algorithms
 
